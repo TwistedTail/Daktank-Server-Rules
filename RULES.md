@@ -10,7 +10,8 @@
 
 ## General rules
 
-1. Do not attempt or manage to crash the server. This is an UNACCEPTABLE offense.
+1. Do not intentionally attempt or manage to crash the server. This is an UNACCEPTABLE offense.
+	1. Accidental crashes will only count as a MODERATE offense if the offender refuses to acknowledge or fix the cause.
 2. Do not prevent other people from inspecting/scoping/scouting your contraption if they have any concerns about its legality.
 	1. People are free to check your contraption as long as they're doing so in a way that doesn't conflict with Rule 3.
 	2. In case some of your components are invisible or hard to distinguish, you must be able to make them visible and easily distinguishable when asked.
