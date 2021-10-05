@@ -44,6 +44,7 @@
 3. You may only use DakTank mobility components to propel DakTank contraptions. This is a SEVERE offense.
 4. Do not engage in combat from an area that'd be otherwise unreachable without noclipping or teleporting. This is a MODERATE offense.
 	1. Good examples of cases where this rule applies are unreachable roof tops and the insides of the world.
+	2. Any underwater area will also be considered unreachable due to the vast advantage it provides during combat.
 5. Do not intentionally spawn behind other combatants. This is a MODERATE offense.
 6. Do not intentionally spawn kill other players in any way. This is a MODERATE offense.
 	1. Letting a player live for a few seconds before killing him will still count as a spawn kill.
