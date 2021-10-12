@@ -36,11 +36,8 @@
 	4. Attacking someone you have previously stated you don't consent to fight with will get you punished.
 2. Play fair, do not exploit. This is a SEVERE offense.
 	1. Exploiting will be defined as abusing a flawed mechanic in order to get an edge over the rest.
-	2. Because an exploit has been acknowledged but not fixed by the developers doesn't make it free to use.
-	3. Because an exploit doesn't produce any errors on the console doesn't make it free to use either.
-	4. You're free to ask any staff member or the developer himself if something counts as an exploit.
-	5. Only staff members and developers can decide if something has been considered an exploit.
-	6. You're free to research any possible exploits as long as you report them to the staff team or the developer and not use them during combat.
+	2. Developers and staff members will have the final say whether something has been considered an exploit.
+	3. You're free to research any possible exploits as long as you report them to the staff team or the developer and not use them during combat.
 3. You may only use DakTank mobility components to propel DakTank contraptions. This is a SEVERE offense.
 4. Do not engage in combat from an area that'd be otherwise unreachable without noclipping or teleporting. This is a MODERATE offense.
 	1. Good examples of cases where this rule applies are unreachable roof tops and the insides of the world.
